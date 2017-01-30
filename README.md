@@ -8,4 +8,4 @@
 
 собрать проект можно с помощью mvn clean install
 
-запустить приложение с помощью java -jar grep-1.0.jar <mask> <file1> <fileN>
+запустить приложение с помощью java -jar grep-1.0.jar mask file1 fileN
